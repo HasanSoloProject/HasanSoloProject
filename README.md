@@ -1,53 +1,23 @@
-# SYSTEM ACCESS: RESTRICTED // CLEARANCE LEVEL 5 REQUIRED
-
-<div align="center">
+### `SYSTEM ACCESS: RESTRICTED // CLEARANCE LEVEL 5 REQUIRED`
 
 ```diff
-- ░██████╗░█████╗░███╗░░░███╗███████╗
-- ██╔════╝██╔══██╗████╗░████║██╔════╝
-- ╚█████╗░██║░░██║██╔████╔██║█████╗░░
-- ░╚═══██╗██║░░██║██║╚██╔╝██║██╔══╝░░
-- ██████╔╝╚█████╔╝██║░╚═╝░██║███████╗
-- ╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝
-- 
-- ██████╗░███████╗██████╗░░█████╗░░██████╗██╗
-- ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██║
-- ██████╔╝█████╗░░██████╔╝██║░░██║╚█████╗░██║
-- ██╔══██╗██╔══╝░░██╔═══╝░██║░░██║░╚═══██╗██║
-- ██║░░██║███████╗██║░░░░░╚█████╔╝██████╔╝██║
-- ╚═╝░░╚═╝╚══════╝╚═╝░░░░░░╚════╝░╚═════╝░╚═╝
-- 
-- ██████╗░██████╗░██╗██╗░░░██╗░█████╗░████████╗
-- ██╔══██╗██╔══██╗██║██║░░░██║██╔══██╗╚══██╔══╝
-- ██████╔╝██████╔╝██║╚██╗░██╔╝███████║░░░██║░░░
-- ██╔═══╝░██╔══██╗██║░╚████╔╝░██╔══██║░░░██║░░░
-- ██║░░░░░██║░░██║██║░░╚██╔╝░░██║░░██║░░░██║░░░
-- ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝░░░╚═╝░░░
+- ====================================================================================
+-
+-             S O M E   R E P O S I T O R I E S   A R E   P R I V A T E
+-                         C Y B E R A T T A C K S   A R E   R E A L
+-
+- ====================================================================================
 ```
 
-```diff
-- SOME REPOSITORIES ARE PRIVATE
-- CYBERATTACKS ARE REAL
-```
-
-</div>
+> **WARNING: CRITICAL SECURITY NOTICE**
+> The repositories hosted under the **HasanSoloProject** namespace contain raw, unmitigated exploit vectors, kernel-level manipulations, automated bot scripts, and experimental payloads. 
+> Execution without comprehension is fatal. Do not deploy, clone, or execute any script if you do not possess the technical proficiency to audit the source code. Blindly running foreign code does not make you a researcher; it makes you the payload.
 
 ---
 
-## WARNING: CRITICAL SECURITY NOTICE
-
-> **EXECUTION WITHOUT COMPREHENSION IS FATAL.**
-> The repositories hosted under the **HasanSoloProject** namespace contain raw, unmitigated exploit vectors, kernel-level manipulations, and experimental payloads. 
-> 
-> If you do not possess the technical proficiency to audit the source code, **DO NOT DEPLOY, CLONE, OR EXECUTE ANY SCRIPT HERE.** 
-> Blindly running foreign code does not make you a researcher; it makes you the payload. You have been warned.
-
----
-
-## CORE ARSENAL / PRIMARY VECTOR LANGUAGES
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Assembly_x86_64-000000?style=for-the-badge&logo=gnu&logoColor=red" />
+### `CORE ARSENAL // VECTOR LANGUAGES`
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly_x86_64-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" />
@@ -64,15 +34,14 @@
 
 ---
 
-## THREAT OPERATIONAL PROFILE
-
+### `THREAT OPERATIONAL PROFILE`
 ```text
 [+] ACTIVE AREAS OF OPERATION:
     ├── Kernel-Level Exploit Development (Ring 0)
     ├── Memory Corruption & Buffer Overflow Mitigation Bypass
     ├── Advanced Persistent Threat (APT) Simulation
     ├── Cryptographic Algorithm Obfuscation
-    ├── Automated Network Protocol Manipulation
+    ├── Automated Protocol Manipulation & Botnet Scripts
     └── Zero-Day Vulnerability Research
 
 [+] TARGETED INFRASTRUCTURE:
@@ -80,34 +49,3 @@
     ├── Embedded Systems & IoT Firmware
     └── Air-Gapped Network Environments
 ```
-
----
-
-## SYSTEM LOGS
-
-```text
- AUTHENTICATING USER: HasanSoloProject... VERIFIED.
- INITIALIZING ROOT ENVIRONMENT... DONE.
- ENCRYPTING LOCAL DISK VOLUMES... AES-256-GCM ACTIVE.
- ESTABLISHING ENCRYPTED TUNNELS... SUCCESS.
- ANONYMITY STATUS: 100% OPERATIONAL.
- SYSTEM IDLE... MONITORING INCOMING CONNECTIONS.
-```
-
----
-
-<div align="center">
-
-```text
-+-------------------------------------------------------------------+
-|  "There is no patch for human stupidity, but there is always an   |
-|   exploit for vulnerable code."                                   |
-+-------------------------------------------------------------------+
-```
-
-```diff
-- DISCONNECT NOW IF YOU ARE NOT AUTHORIZED
-```
-
-</div>
-
