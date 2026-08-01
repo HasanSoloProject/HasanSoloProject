@@ -1,19 +1,4 @@
-### `SYSTEM ACCESS: RESTRICTED // CLEARANCE LEVEL 5 REQUIRED`
 
-```diff
-- ====================================================================================
--
--             S O M E   R E P O S I T O R I E S   A R E   P R I V A T E
--                         C Y B E R A T T A C K S   A R E   R E A L
--
-- ====================================================================================
-```
-
-> **WARNING: CRITICAL SECURITY NOTICE**
-> The repositories hosted under the **HasanSoloProject** namespace contain raw, unmitigated exploit vectors, kernel-level manipulations, automated bot scripts, and experimental payloads. 
-> Execution without comprehension is fatal. Do not deploy, clone, or execute any script if you do not possess the technical proficiency to audit the source code. Blindly running foreign code does not make you a researcher; it makes you the payload.
-
----
 
 ### `CORE ARSENAL // VECTOR LANGUAGES`
 <p align="left">
