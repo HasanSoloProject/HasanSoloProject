@@ -188,8 +188,8 @@ BY ACCESSING THIS PROFILE YOU ACKNOWLEDGE THAT:
 ```
 
 [+] PGP: 8F3A 2B1C 9D4E 5F6A 7B8C 0D1E 2F3A 4B5C
-[+] XMPP: anonymus@jabber.calyxinstitute.org
-[+] MATRIX: @anonymus:matrix.org
+[+] XMPP: Hznx@jabber.calyxinstitute.org
+[+] MATRIX: @Szn:matrix.org
 [+] SESSION: 05a8c9b2d4e6f1a3b5c7d8e9f0a2b4c6d8e0f1a3b5c7d9e2f4a6b8c0d1e3f5
 [+] SIGNAL: anonymus.42
 
@@ -204,16 +204,20 @@ BY ACCESSING THIS PROFILE YOU ACKNOWLEDGE THAT:
 <div align="center">
 
 ```
-█
-█                                                             
-█   IF YOU ARE READING THIS, YOU ARE ALREADY IN THE MATRIX   
-█                                                             
-█   EVERYTHING IS CONNECTED. EVERYTHING IS VULNERABLE.        
-█                                                             
-█   TRUST NO ONE. VERIFY EVERYTHING.                          
-█                                                             
-█   PRIVACY IS A MYTH. SECURITY IS AN ILLUSION.               
-█                                                             
+
+███████████████████████████████████████████████████████████████
+█                                                             █
+█   IF YOU ARE READING THIS, YOU ARE ALREADY IN THE MATRIX   █
+█                                                             █
+█   EVERYTHING IS CONNECTED. EVERYTHING IS VULNERABLE.        █
+█                                                             █
+█   TRUST NO ONE. VERIFY EVERYTHING.                          █
+█                                                             █
+█   PRIVACY IS A MYTH. SECURITY IS AN ILLUSION.               █
+█                                                             █
+███████████████████████████████████████████████████████████████
+
+```
 
 </div>
 ```
