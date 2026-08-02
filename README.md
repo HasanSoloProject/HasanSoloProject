@@ -60,7 +60,7 @@
 
 ### `CONTACT DEVELOPER`
 
-SOME REPO ARE PRIVATE. WANNA USE SOME TOOLS? CONTACT ME.
+SOME REPO ARE PRIVATE. WANNA USE SOME TOOLS? JUST CONTACT ME
 <p align="left">
 <a href="https://www.instagram.com/hznxwick?igsh=MWRlOXF2d3c0Znhuaw==" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram HasanSoloProject" width="40">
